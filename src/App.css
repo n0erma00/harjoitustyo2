@@ -1,0 +1,13 @@
+#container {
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: rgba(112, 129, 129, 0.445);
+    
+  }
+
+  #quote {
+      font-style: italic;
+  }
+
+   
